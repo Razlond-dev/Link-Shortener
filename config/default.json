@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "nazar mern-app",
+  "mongoUri": "mongodb+srv://Nazar:test1234@cluster0.act57.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
